@@ -19,6 +19,6 @@ Confira o resultado final: [Resultado em PDF](resultado.pdf)
 
 ## 🌈 Imagens Geradas 
 
-- **Arte Visual do Post:** ![Imagem Utilizada](img/imagem-principal.jpg)
-- **Imagem Alternativa 1:** ![Imagem Alternativa 1](img/imagem-alternativa1.jpg)
-- **Imagem Alternativa 2:** ![Imagem Alternativa 2](img/imagem-alternativa2.jpg)
+- **Arte Visual do Post:** ![Imagem Utilizada](img/imagem-principal.png)
+- **Imagem Alternativa 1:** ![Imagem Alternativa 1](img/imagem-alternativa1.png)
+- **Imagem Alternativa 2:** ![Imagem Alternativa 2](img/imagem-alternativa2.png)
