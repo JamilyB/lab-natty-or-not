@@ -1,5 +1,4 @@
 
-```markdown
 # 🌟Postagem de Ada Lovelace em Rede Social com mulheres inspiradoras
 
 ## 📒 Descrição
